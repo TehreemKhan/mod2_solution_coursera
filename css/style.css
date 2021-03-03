@@ -19,13 +19,13 @@
 	border-left: 1px solid black;
 }
 #sectionTitleColor1 {
-	background-color: lightpink;
+	background-color: #FFC0CB;
 }
 #sectionTitleColor2 {
-	background-color: maroon;
+	background-color: #800000;
 }
 #sectionTitleColor3 {
-	background-color: yellow;
+	background-color: #FFFFE0;
 }
 .sectionDetail {
 	clear: right;
